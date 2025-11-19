@@ -62,7 +62,7 @@ Provider-level performance
 Interactive filters for modality and provider
 
 Link to Tableau Public:
-[Insert your Tableau Public link here]
+https://public.tableau.com/app/profile/pranab.rudra/viz/RadiologyEfficiencyandThroughputInsightsNHS202425/Dashboard1?publish=yes
 
 ## 4. Goals and Use Cases
 
